@@ -2,9 +2,9 @@ numpy
 scipy
 scikit-learn
 matplotlib
+nltk
 langchain
 openai
 pandas
 chromadb
 tiktoken
-# pysqlite-binary
